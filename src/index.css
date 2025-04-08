@@ -28,6 +28,9 @@ body > div {
   align-items: center;
   justify-content: center;
 }
+.home {
+  background-color: darkorchid;
+}
 .red {
   background-color: #b05f6d;
   color: white;
