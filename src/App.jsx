@@ -8,8 +8,9 @@ function App() {
   return (
     <div id="container">
       <div id="navbar">
-        <Link>blue</Link>
-        <Link>red</Link>
+        <Link to="/blue">blue</Link>
+        <Link to="/red">red</Link>
+        <Link to="/">home</Link>
       </div>
       <div id="main-section">
         <Routes>
